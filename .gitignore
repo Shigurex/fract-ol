@@ -1,0 +1,7 @@
+a.out
+.DS_Store
+*.o
+fract_ol
+libft.a
+srcs_test
+objs
